@@ -20,3 +20,6 @@ B. Using Apache log example create a script to answer the following questions:
 ![Screenshot from 2023-01-20 21-20-41](https://user-images.githubusercontent.com/102302310/213788462-19b5e251-ac23-4e7e-a92f-760054802ca9.png)
 
 [apachelog.txt](https://github.com/Prudyus/Linux-administration-with-bash.-Home-task/files/10469485/apachelog.txt)
+
+log file that was used for the script: 
+[example_log.log](https://github.com/Prudyus/Linux-administration-with-bash.-Home-task/files/10469484/example_log.log)
